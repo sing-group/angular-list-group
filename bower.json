@@ -13,7 +13,7 @@
   },
   "description": "AngularListGroup - AngularJS directives based upon and around Bootstrap list group",
   "main": [
-    "dist/angular-list-group.min.js",
+    "dist/angular-list-group.js",
     "dist/angular-list-group.css"
   ],
   "license": "MIT",
