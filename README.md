@@ -1,0 +1,3 @@
+This project was developed by [Gilles Navarro](https://github.com/gnavarro77).
+
+It has been hosted in this repository because it is used by the [pandrugs-frontend](https://github.com/sing-group/pandrugs-frontend) project and the original repository has been removed from GitHub. Thus, it is still possible to use this dependency through Bower to build the [pandrugs-frontend](https://github.com/sing-group/pandrugs-frontend) project.
